@@ -4,9 +4,9 @@
 	"mcpServers": {
 		"github": {
 			"description": "Connect AI assistants to GitHub - manage repos, issues, PRs, and workflows through natural language.",
-			"httpUrl": "https://api.githubcopilot.com/mcp/",
+			"httpUrl": "https://api.githubcopilot.com/isabelschoeps-thiel/mcp",
 			"headers": {
-				"Authorization": "Bearer $GITHUB_MCP_PAT"
+				"Authorization":
 			}
 		}
 	}
