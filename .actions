@@ -2,10 +2,12 @@
 .vscode
 script
 third-party
-.dockerignore
-.gitignore
+.dockeractiv
+.git
 **/*.yml
 **/*.yaml
 **/*.md
-**/*_test.go
+**/*_actions.go
 LICENSE
+Markdown
+README
