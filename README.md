@@ -1,25 +1,9 @@
 # Isabel Schöps geb. Thiel. (2026). 
 **Isabel Schöps geb. Thiel. (2026).** isabelschoeps-thiel/oxford.university: Referenz YWP-1-5-IST-SIA - Release 1.0 (YWP-1-IST-SIA-1-0). Zenodo, University of Oxford, Harvard University, Cambridge University. https://doi.org/10.5281/zenodo.18204573
 
-### myGitHub Repositoty Reference Badges
-[![DOI](https://zenodo.org/badge/1123873845.svg)](https://doi.org/10.5281/zenodo.18209788)
-
-[![DOI](https://zenodo.org/badge/1120020358.svg)](https://doi.org/10.5281/zenodo.18050643)
-
-[![DOI](https://zenodo.org/badge/1104641822.svg)](https://doi.org/10.5281/zenodo.18192743)
-
-[![DOI](https://zenodo.org/badge/1129250146.svg)](https://doi.org/10.5281/zenodo.18204572)
-
-![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
-
-[![DOI](https://zenodo.org/badge/1125435636.svg)](https://doi.org/10.5281/zenodo.18100835)
-
-[![DOI](https://zenodo.org/badge/1123640483.svg)](https://doi.org/10.5281/zenodo.18179547)
-
 --- 
 
-# Please help me - i miss my Family !!!
-[![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
+# Please help me - i miss my Family !!!(https://doi.org/10.5281/zenodo.18192589)
 
 Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschland geboren und aufgewachsen bin. Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
   
