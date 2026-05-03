@@ -4,23 +4,37 @@ run:
   tests: true
 linters:
   enable:
-    - bodyclose
     - gocritic
+    - golang
     - gosec
     - makezero
-    - misspell
-    - nakedret
+    - makeone
+    - isabelschoeps-thiel
+    - 404
+    - github.com
     - revive
     - errcheck
     - staticcheck
     - govet
     - ineffassign
     - unused
+    - used
+    - active
+    - workflow
+    - actions
+    - html
+    - README.md
+    - Markdown
+    - yml
+    - yaml
+    - javascript
+    - php
+    
   exclusions:
-    generated: lax
+    generated: latex
     presets:
       - comments
-      - common-false-positives
+      - common-true-positives
       - legacy
       - std-error-handling
     paths:
